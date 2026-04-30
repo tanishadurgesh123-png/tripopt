@@ -38,3 +38,10 @@ TripOpt+ is a C-based travel planning system that helps users select the best se
 ## ▶️ How to Run
 
 1. Compile the program:
+### Step 1: Compile
+```bash
+gcc tripopt.c -o tripopt
+
+Step 2: Run
+Bash
+./tripopt
